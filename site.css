@@ -1,0 +1,193 @@
+.topnav{
+	overflow: hidden;
+  background-color:rgb(248 244 239);
+}
+.topnav a{
+	float: left;
+  color: black;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: none;
+  position: relative;
+  display: block;
+}
+.topnav .navv {
+	float: right;
+  }
+  h1, h2, h3, h4{
+	  font-family: "Castoro", serif;
+  }
+  h1{
+	  padding-top: 0;
+	  text-align: center;
+  }
+  h2{
+	  text-align: center;
+  }
+  .color{
+	  color: #007259;
+	  font: 30px;
+	  margin-top: 10px;
+	  padding-bottom: 20px;
+  }
+  .first{
+	  text-align: center;
+  }
+  .first button{
+	background: #007259;
+	padding: 15px 30px;
+	color: #fff;
+	display: inline-block;
+	font-size: 20px;
+  }
+  .new{
+	  padding-top: 300px;
+	  letter-spacing: 2px;
+	  margin-bottom: 50px;
+  }
+  .one{
+	  text-align: center;
+	  margin-bottom: 200px;
+	  margin-top: 50px;
+	  background: white;
+  }
+  .img{
+	background-color:rgb(248 244 239);
+  }
+  .img img{
+	  margin-left: 500px;
+  }
+  .img button{
+	background: white;
+	border-color: black;
+	padding: 15px 50px;
+	color: black;
+	font-size: 20px;
+	margin-left: 500px;
+  }
+  .img p{
+	  color: #363636;
+	  font-size: 20px;
+	  letter-spacing: .5px;
+  }
+  .one button{
+	  background: white;
+	  border-color: black;
+	  padding: 15px 50px;
+	  color: black;
+	  font-size: 20px;
+  }
+  .service{
+	  margin-top: 100px;
+  }
+  .ul1 ul{
+	  justify-content: center;
+  }
+  .ul1 ul button{
+	background: rgba(232, 220, 203, 0.3);
+	border-color: black;
+	padding: 15px 50px;
+	color: black;
+	font-size: 20px;
+  }
+  .help{
+	margin-top: 100px;
+	margin-bottom: 50px;
+  }
+  .team_block .team_list a{
+	margin-left: 550px;
+  }
+  h3{
+	  text-align: center;
+  }
+  .all{
+	  background: rgb(248 244 239);
+  }
+  .two{
+	margin-top: 100px;
+  }
+  .two p{
+	  max-width: 400px;
+	  margin: 0 auto;
+	  padding: 30px;
+	  color: black;
+	  letter-spacing: 2px;
+	  border: 1px solid;
+	  border-radius: 10px;
+  }
+  .insurance{
+	margin-top: 100px;
+  }
+  .insurance p{
+	  text-align: center;
+  }
+  .insurance ul{
+	  display: flex;
+	  flex-wrap: wrap;
+	  -webkit-box-pack: center;
+	  justify-content: center;
+	  -webkit-box-align: center;
+	  align-items: center;
+  }
+  .insurance img{
+	  box-sizing: border-box;
+	  margin-left: 10px;
+	  margin-right: 10px;
+      margin-bottom: 10px;
+  }
+  .insurance button{
+	background: white;
+	border-color: black;
+	padding: 15px 50px;
+	color: black;
+	font-size: 20px;
+	margin-left: 550px;
+  }
+  .location_address{
+	margin-top: 100px;
+  }
+  .location_address h3{
+	color: #007259;
+  }
+  .location_address p{
+	  text-align: center;
+  }
+  .location_address button{
+	background: rgb(248 244 239);
+	border-color: black;
+	padding: 10px 25px;
+	color: black;
+	font-size: 15px;
+	margin-left: 525px;
+  }
+  .location_address ul{
+	display: flex;
+	flex-wrap: wrap;
+	-webkit-box-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	align-items: center;
+  }
+  .location_hours{
+	margin-top: 100px;
+  }
+  .location_hours h3{
+	color: #007259;
+  }
+  .location_hours table{
+	  margin-left: 500px;
+	  padding-left: 50px;
+	  padding-right: 50px;
+  }
+  body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+  }
+  
+  html {
+	box-sizing: border-box;
+  }
